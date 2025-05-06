@@ -108,6 +108,7 @@ Contribuições são bem-vindas!
 
 ## 📋 Licença  
 
-Distribuído sob licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.  
+Distribuído sob licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
+
 
 ---
