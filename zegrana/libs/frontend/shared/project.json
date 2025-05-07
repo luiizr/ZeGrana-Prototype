@@ -1,7 +1,7 @@
 {
-  "name": "components",
-  "$schema": "../../node_modules/nx/schemas/project-schema.json",
-  "sourceRoot": "frontend/shared/src",
+  "name": "component",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/frontend/shared/src",
   "prefix": "lib",
   "projectType": "library",
   "tags": [],

@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@zegrana/component": ["libs/frontend/shared/src/index.ts"],
       "@zegrana/components": ["frontend/shared/src/index.ts"]
     }
   },

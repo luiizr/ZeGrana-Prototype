@@ -2,10 +2,10 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
 @Component({
-  selector: 'lib-components',
+  selector: 'lib-component',
   imports: [CommonModule],
-  templateUrl: './components.component.html',
-  styleUrl: './components.component.scss',
+  templateUrl: './component.component.html',
+  styleUrl: './component.component.scss',
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
-export class ComponentsComponent {}
+export class ComponentComponent {}
